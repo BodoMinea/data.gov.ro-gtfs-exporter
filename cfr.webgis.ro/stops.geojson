@@ -29867,7 +29867,7 @@
       "type": "Feature",
       "properties": {
         "station_id": "13899",
-        "name": "Sintesti hc"
+        "name": "Sintești hc"
       },
       "geometry": {
         "type": "Point",
@@ -29895,7 +29895,7 @@
       "type": "Feature",
       "properties": {
         "station_id": "13863",
-        "name": "Bucuresti Progresu"
+        "name": "București Progresu"
       },
       "geometry": {
         "type": "Point",
